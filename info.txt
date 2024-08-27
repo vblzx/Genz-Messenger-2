@@ -1,0 +1,14 @@
+This is an informative file
+1. We have used Prisma and Neon to connect our user with the database
+2. We have used uploadThing for rendering the server pfp
+3. We have used various components from shadcn like:
+    1. 
+    2.
+    3.
+    4.
+    5.
+    6.
+
+4. We have used zustand 
+5. Hydration error
+6. "use client" means 
